@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7e4b0ae-b51d-4e51-9f04-608bcee7c3f6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/hello/api/hello/v1/hello_http.pb.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/hello/api/hello/v1/hello_http.pb.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/hello/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/hello/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin.go" beforeDir="false" afterPath="$PROJECT_DIR$/gin.go" afterDir="false" />
+    <list default="true" id="a7e4b0ae-b51d-4e51-9f04-608bcee7c3f6" name="Changes" comment="version">
       <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/transport/http/binding/response.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/transport/http/binding/response.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +63,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="version" />
+    <option name="LAST_COMMIT_MESSAGE" value="version" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
